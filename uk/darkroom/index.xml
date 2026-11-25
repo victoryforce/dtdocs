@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Темна кімната on darktable user manual</title>
+    <link>https://darktable-org.github.io/dtdocs/uk/darkroom/</link>
+    <description>Recent content in Темна кімната on darktable user manual</description>
+    <generator>Hugo</generator>
+    <language>uk</language>
+    <atom:link href="https://darktable-org.github.io/dtdocs/uk/darkroom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Огляд</title>
+      <link>https://darktable-org.github.io/dtdocs/uk/darkroom/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://darktable-org.github.io/dtdocs/uk/darkroom/overview/</guid>
+      <description>&lt;p&gt;Режим Темної кімнати &amp;ndash; це місце, де ви обробляєте свої зображення. Існує кілька способів почати обробку зображення в Темній кімнаті:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Двічі клікніть на зображенні в &lt;a href=&#34;https://darktable-org.github.io/dtdocs/uk/lighttable/&#34;&gt;режимі Світлового столу&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Скористайтеся &lt;a href=&#34;https://darktable-org.github.io/dtdocs/uk/preferences-settings/&#34;&gt;прискорювачем&lt;/a&gt; (за замовчуванням це D) з будь-якого іншого режиму.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Натисніть &lt;em&gt;Темна кімната&lt;/em&gt; у верхньому банері.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;В останніх двох методах зображенням буде перше вибране зображення на Світловому столі або перше зображення в поточній &lt;a href=&#34;https://darktable-org.github.io/dtdocs/uk/module-reference/utility-modules/shared/collections/&#34;&gt;колекції&lt;/a&gt;, якщо зображення не вибрано.&lt;/p&gt;&#xA;&lt;p&gt;Якщо встановлено &lt;a href=&#34;https://darktable-org.github.io/dtdocs/uk/preferences-settings/lighttable/#general&#34;&gt;&lt;em&gt;Надати пріоритет зображенню під курсором над вибраними зображеннями&lt;/em&gt;&lt;/a&gt;, то зображення під курсором на Світловому столі, стрічці знімків або Мапі буде відкрито в Темній кімнаті, незалежно від того чи вибрано ще щось.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
